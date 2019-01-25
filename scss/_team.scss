@@ -6,13 +6,18 @@
     width: 225px;
     height: 225px;
     border: 7px solid $white;
+    filter: grayscale(100%);
   }
   h4 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
+    color: $primary;
   }
   p {
     margin-top: 0;
+  }
+  .social-buttons{
+    display: none
   }
 }
