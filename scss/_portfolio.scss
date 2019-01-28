@@ -56,6 +56,9 @@
         margin: 0;
         @include serif-font;
       }
+      .progress {
+        height: 18px;
+      }
     }
   }
   * {
